@@ -3,8 +3,7 @@
 A one-day survey course of data analytics tools, techniques, and best practices aimed at managers and supervisors. The class involves a hands-on exercise with open data and is intended to build data literacy and familiarity with the analytics process, while also addressing the challenges and opportunities of doing more and better analysis in the context of city operations. 
 
 ##Target Audience
-Managers, supervisors, and team leaders with a need to better understand the analytics process, as well as the key tools and techniques to 
-
+Managers, supervisors, and team leaders with a need to better understand the analytics process, as well as the key tools and techniques to to bring data-driven insights to city operations.
 
 ##Course Outline
 This course introduces participants, especially managers and executives, to the concept of data-driven decision-making and management. Participants will learn how to better use data for setting goals and defining objectives, while identifying the proper metrics for those objectives and the elements of meaningful management dashboards. Participants will also learn how to assess the right analytical tools to manage projects, processes, and analytic staff within their departments.
