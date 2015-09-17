@@ -5,7 +5,7 @@ A one-day survey course of data analytics tools, techniques, and best practices 
 ##Target Audience
 Managers, supervisors, and team leaders with a need to better understand the analytics process, as well as the key tools and techniques to to bring data-driven insights to city operations.
 
-##Course Outline
+##Course Overview
 This course introduces participants, especially managers and executives, to the concept of data-driven decision-making and management. Participants will learn how to better use data for setting goals and defining objectives, while identifying the proper metrics for those objectives and the elements of meaningful management dashboards. Participants will also learn how to assess the right analytical tools to manage projects, processes, and analytic staff within their departments.
 
 ##Goals
@@ -56,12 +56,12 @@ This course introduces participants, especially managers and executives, to the 
 ###Universal Pre-Kindergarten
 + Task to participants
     + In groups of 3-4, choose one of the following program areas
-    + Capacity
-    + Outreach
-    + Enrollment
-    + Monitoring/Evaluation
+	    + Capacity
+	    + Outreach
+	    + Enrollment
+	    + Monitoring/Evaluation
     + Discuss what kind of analysis would be useful to the task, what concerns must be navigated, and how the management of the process can be best supported with data
-+ Present your work to the class
+	+ Present your work to the class
 + Desired outcomes
     + Participants will be practiced in applying the fundamentals of problem formulation for data-driven decision making around a particular policy program issue
     + Participants will be experienced in articulating business problems as they relate to policy programs with data
@@ -69,9 +69,11 @@ This course introduces participants, especially managers and executives, to the 
 ###311 Noise Complaints
 + Task to participants
     + In groups of 3-4, choose one of the 5 boroughs in New York City and analyze the occurrence of noise complaints by type, time, and day of week
-    + Exploratory data analysis
     + In groups, describe the data (the frequency of types, times, and locations)
-    + Question-answering exercise - Vision 0 dB
++ Desired outcomes
+    + 
+
++ Question-answering exercise - Vision 0 dB
     + Given 311 noise complaint data, assist enforcement efforts by identifying community districts that have a high volume of noise complaints and the time frame enforcement resources should be deployed to combat the noise issue at its peak
     + Identify the prevalent types of noise complaints in these areas to guide enforcement in each community district
 + Desired outcomes

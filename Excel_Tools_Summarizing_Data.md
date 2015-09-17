@@ -6,7 +6,7 @@ A one-day course exploring the use of Microsoft Excel to quickly and correctly s
 ##Target Audience
 Managers, supervisors, and team leaders with a need to leverage basic and advanced features of Excel for extracting meaning from data, as well as communicating those findings in a clear and concise way for key decision makers.
 
-##Description
+##Course Overview
 This course will address one of the greatest challenges managers face today: making sense of the data they already have.  Being able to quickly and efficiently summarize and analyze data is essential to making better business decisions.  Using Excel 2010, participants will be taught some of the most effective techniques in summarizing and displaying data to extract actionable intelligence quickly and accurately.  
 
 ##Goals
