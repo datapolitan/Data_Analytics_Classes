@@ -71,23 +71,19 @@ This course introduces participants to the essential elements of the QGIS open s
 	+ Working with SRID map units
 	+ Reprojecting data
 	+ Select by location
-	+ 
+	+ Using the Spatial Query plug in
 + Break (1:50 - 2:00)
-+ Spatial analysis with QGIS (2:00 - 2:50) 
-+ Geocoding
-+ Re-projecting data
-+ Georeferencing
++ Spatial analysis with PostGIS (2:00 - 2:50) 
+	+ Introduction to SQL
+	+ Spatial joins with SQL
+	+ Buffering in PostGIS SQL
+	+ Geometry vs Geography
 + Break (2:50 - 3:00)
-+ Group exercise creating a map in QGIS (3:00 - 4:00) 
-+ Introduction to other mapping platforms (4:00 - 4:50)
-+ Introduction to CartoDB
-+ Create a CartoDB account
-+ Load data into CartoDB
-+ Visualize and style
-+ Display CartoDB layers in QGIS
-+ Overview of Mapbox/TileMill for creating basemap tiles 
-+ Wrap-up and course evaluations (4:50 - 5:00)
-+ Dismissal (5:00)
++ Group exercise creating a map in QGIS (3:00 - 3:50)
+	+ Exercise 5: Create a heat map of bicyclist injuries on and off bike paths in your assigned borough
+	+ Group presentations
++ Wrap-up and course evaluations (3:50 - 4:00)
++ Dismissal (4:00)
 
 ##Exercise Descriptions
 ###Exercise 1: Style the polygons and labels in the NYC boroughs shapefile 
@@ -117,4 +113,12 @@ This course introduces participants to the essential elements of the QGIS open s
 ###Exercise 4: Calculate the number of bicycle injuries that occur on or near bike paths in NYC
 + Task to Participants
 	+ Calculate the number of bicycle injuries that occur on or near bike paths in NYC using the point shapefile of injury locations and the line shapefile of bike paths in NYC
++ Desired outcomes
+	+ Participants practice 
+
+###Exercise 5: Create a heat map of bicyclist injuries on and off bike paths in your assigned borough
++ Task to Participants
+	+ Working on your own or in groups, create for your assigned borough
+		+ A heat map of bicycle injuries occurring on or near bike paths		+ A heat map of bicycle injuries occurring away from bike paths	+ Prepare to present your (rough) spatial analysis to the class
++ Desired outcomes
 	+ 
