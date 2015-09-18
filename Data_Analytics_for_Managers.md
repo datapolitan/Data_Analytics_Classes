@@ -131,17 +131,20 @@ This course introduces participants, especially managers and executives, to the 
 + Task to Participants
 	+ Follow along in a guided exercise exploring 311 Service Requests related to noise compliants in New York City
 + Desired outcomes
-	+ Participa
+	+ Participants will have practice performing simple analysis with open data
+	+ Participants will gain experience manipulating data in Excel, including formatting spreadsheets, using Pivottables, creating charts, and writing formulas
+
  
 ######[back to schedule](#ex2) | [back to top](#top)
 
 <a id="exercise3"></a>
-###Exercise 3: Question-answering exercise - Vision 0 dB
+###Exercise 3: 311 Noise Complaints Question-Driven Analysis - Vision 0 (dB)
 + Task to Participants
-	+ Given 311 noise complaint data, assist enforcement efforts by identifying community districts that have a high volume of noise complaints and the time frame enforcement resources should be deployed to combat the noise issue at its peak
+	+ Given 311 noise complaint data, assist enforcement efforts by identifying NYC community districts that have a high volume of noise complaints and the time frame enforcement resources should be deployed to combat the noise issue at its peak
     + Identify the prevalent types of noise complaints in these areas to guide enforcement in each community district
 + Desired outcomes
 	+ Participants will be familiar with the analytics process, using city data to make policy and program decisions
-    + Participants will be more familiar with the tools of basic data analysis and understand the types of questions that can be answered with data
+   + Participants will be more familiar with the tools of basic data analysis and understand the types of questions that can be answered with data
 ￼
+
 ######[back to schedule](#ex3) | [back to top](#top)
