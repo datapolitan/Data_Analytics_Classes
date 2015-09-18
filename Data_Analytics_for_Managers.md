@@ -29,81 +29,110 @@ This course introduces participants, especially managers and executives, to the 
 
 <a id="goals"></a>
 ##Goals
-+ Learn the role of analysts in the decision-making process
-+ Better understand the role of managers in the data-analysis process 
-+ Better understand the value of data
-+ Introduce useful data sources
-+ Introduce useful terminology
-+ Get hands-on experience with data
++ Discuss the data-driven decision making process
++ Explore the role of managers and analysts in the decision making process
++ Introduce useful terminology around data and the data analytics process
++ Get some hands-on experience analyzing data
 
 ######[back to top](#top)
 
 <a id="key-takeaways"></a>
 ##Key Takeaways
-+ Better understand the analytical process
-+ Better understand the role of managers in the analytical process
-+ Better understand the role of analysts in the decision-making process 
-+ Have a “light bulb moment” with data analytics
++ Participants will better understand using data in the decision-making process
++ Participants will better understand the analytics process
++ Participants will better understand the value of data, particularly open data
++ Participants will better understand the role of analysts and managers in the decision-making process
 
 ######[back to top](#top)
 
 <a id="schedule"></a>
 ##Schedule:
 + Introduction to Analysis and Problem Formulation (9:00 – 9:50) 
-    + 5 Buckets of Operational Analysis
-    + Organizational Barriers
-    + Opportunities <a id="ex1"></a>
-+ [Exercise 1 – Universal Prekindergarten](#exercise1) (10:00 – 10:50) 
-    + Strategize around a problem using data
-    + Present ideas to the group
-+ Business Problems and Analytics (11:00 – 12:00)
+    + 5 primary types of analysis
+	    1. Quantifying needs
+	    2. Operational analysis
+	    3. Performance metrics
+	    4. Prioritization
+	    5. Data sharing/empowering stakeholders
+    + Group discussion: "What type of analysis does your office do?" 
+    + 4 main concerns in government analytics
+	    1. Technical
+	    2. Legal
+	    3. Cultural
+	    4. Political
+    + Benefits of good analytics  
+    + Group discussion: "What challenges and opportunities have you experienced with analysis in your office?" <a id="ex1"></a>
++ Analytic Management in Practice (10:00 – 10:50)  
+	+ [Exercise 1 – Universal Prekindergarten](#exercise1) 
++ Overview of Statistics (11:00 – 12:00)
+	+ Why statistics?
+	+ Data distributions
+	+ Measures of central tendency
+		+ Mean
+		+ Median
+		+ Mode
+	+ Measures of variability
+		+ Range
+		+ Quartiles
+		+ Inter-quartile range
+		+ Standard deviation
+	+ Correlations
+	+ Causation
+	+ Discussion: "How are statistical measures used in your office?"
 + Lunch (12:00 – 1:00)
-+ Practical session with 311 Noise Complaints (1:00 – 1:50)
-    + Guided Demo
-    + Group Project 1 – Exploratory Data Analysis
-    + Present Group Project 1
-    + Group Project 2 – Question Answering Exercise 
-    + Present Group Project 2
-+ Role of analysts and managers in the decision-making process (2:00 – 2:50) 
-+ Group ideation exercise (2:00 – 2:25)
-    + How could I use data analysis?
-    + How could analysts best help me?
-    + How do I tell analysts what I need/how could I use them better?
-+ Facilitated group discussion (2:30 – 2:50)
-+ Introduction to Open Data (3:00 – 3:25)
-    + Break out session
-    + What is open data?
-    + What’s available?
-    + What problems can it help me solve?
-+ Analytics resources for the busy city manager (3:30 – 4:00)
-+ Wrap-up discussion (4:00 – 4:30)
++ The Analytical Process and Designing Data Visualizations (1:00 – 1:55)
+	+ The 6 steps in the analytical process
+		1. Problem formulation
+		2. Data gathering/preliminary analysis
+		3. Data cleaning
+		4. Hypothesis testing
+		5. Verification
+		6. Visualization
+	+ Designing data visualizations
+		+ Selecting the appropriate type of chart
+		+ Effective use of color
++ Break (1:55 - 2:00)<a id="ex2"></a>
++ Practical session in Exploratory Data Analysis (2:00 – 2:50)
+	+ Introduction to exploratory data analysis
+	+ [Exercise 2: Exploring 311 Noise Complaints](#exercise2)
++ Break (2:50 - 3:00)
++ Practical session in Question-driven Analysis (3:00 - 3:50)
+	+ Introduction to question-driven analysis<a id="ex3"></a>
+	+ [Exercise 3: Vision 0 (dB)](#exercise3)
+	+ Group presentations
++ _Break (3:50 - 4:00) (optional)_
++ Introduction to Open Data (4:00 – 4:20)
+    + Group discussion: "What is open data?"
+    + Definition of open data
+    + Benefits of open data
+    + Concerns with open data
++ Open Data Portal Live Demo (4:20 - 4:30)
++ Analytics resources for the busy city manager (4:30 – 4:40)
++ Wrap-up discussion and course evaluations (4:40 – 5:00)
++ Dismissal (5:00)
 
 ######[back to top](#top)
 
 <a id="exercise-descriptions"></a>
 ##Exercise Descriptions
-###Exercise 1: Universal Pre-Kindergarten
+<a id="exercise1"></a>
+###Exercise 1: Universal Prekindergarten
 + Task to participants
-    + In groups of 3-4, choose one of the following program areas
-	    + Capacity
-	    + Outreach
-	    + Enrollment
-	    + Monitoring/Evaluation
-    + Discuss what kind of analysis would be useful to the task, what concerns must be navigated, and how the management of the process can be best supported with data
-	+ Present your work to the class
+    + Given a background in the [expansion of Universal Prekindergarten in New York City](http://schools.nyc.gov/ChoicesEnrollment/PreK/default.htm), discuss in your groups what kind of analysis would be useful to the assigned area of concern (capacity, outreach, enrollment, monitoring, and evaluation), what concerns must be navigated, and how the management of the process can be best supported with data
+	+ Present the work of the group to the class
 + Desired outcomes
-    + Participants will be practiced in applying the fundamentals of problem formulation for data-driven decision making around a particular policy program issue
-    + Participants will be experienced in articulating business problems as they relate to policy programs with data
+    + Participants will practice applying the fundamentals of problem formulation for data-driven decision making around a particular policy program issue
+    + Participants will gain experience articulating business problems as they relate to policy programs with data
 
 ######[back to schedule](#ex1) | [back to top](#top)
 
-###Exercise 2: 311 Noise Complaints
-+ Task to participants
-    + In groups of 3-4, choose one of the 5 boroughs in New York City and analyze the occurrence of noise complaints by type, time, and day of week
-    + In groups, describe the data (the frequency of types, times, and locations)
+<a id="exercise2"></a>
+###Exercise 2: 311 Noise Complaints Exploratory Data Analysis
++ Task to Participants
+	+ Follow along in a guided exercise exploring 311 Service Requests related to noise compliants in New York City
 + Desired outcomes
-    + 
-
+	+ Participa
+ 
 ######[back to schedule](#ex2) | [back to top](#top)
 
 <a id="exercise3"></a>
@@ -115,4 +144,4 @@ This course introduces participants, especially managers and executives, to the 
 	+ Participants will be familiar with the analytics process, using city data to make policy and program decisions
     + Participants will be more familiar with the tools of basic data analysis and understand the types of questions that can be answered with data
 ￼
-######[back to schedule](#ex2) | [back to top](#top)
+######[back to schedule](#ex3) | [back to top](#top)

@@ -94,7 +94,7 @@ This course will address one of the greatest challenges managers face today: mak
 <a id="exercise1"></a>
 ###Exercise 1: Explore 311 Service Requests by borough to find patterns
 + Task to participants
-    + In your groups, explore the complaints for your assigned borough
+    + In small groups, explore the complaints for your assigned borough
     + What are the common types of complaints?
     + Which Community Districts have the most complaints?
     + Identify any other meaningful patterns to the noise complaints
