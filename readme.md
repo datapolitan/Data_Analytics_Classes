@@ -1,6 +1,6 @@
 This repository contains outlines for [analytics courses](http://www.nyc.gov/html/dcas/html/employees/learning_ctc_home.shtml) taught under contract with the New York City [Department of Citywide Administrative Services (DCAS)](http://www.nyc.gov/html/dcas/html/home/home.shtml) to New York City employees.
 
-Courses run either all day (7 hours with a 1 hour lunch break) or half day (3 hours). Every class is run with 50 minute blocks of interactive lecture, discussion, and exercises, with a 10 minute break. This helps keep the class dynamic and allows the students time to absorb the material. 
+Courses run either all day (7 hours with a 1 hour lunch break) or half day (3 hours). Every class is run with 50 minute blocks of interactive lecture, discussion, and exercises, with a 10 minute break, except the half-day course, which runs in two blocks, with a 10 minute break between. This helps keep the class dynamic and allows the students time to absorb the material. 
 
 The courses are:
 + [Data Analytics for Managers](Data_Analytics_for_Managers.md)
