@@ -7,7 +7,7 @@ The courses are:
 + [Excel Tools: Summarizing Data](Excel_Tools_Summarizing_Data.md)
 + [Introduction to Statistical Analysis](Introduction_Statistical_Analysis.md)
 + [Introduction to Open-Source Mapping with QGIS](Introduction_Open_Source_Mapping_with_QGIS.md)
-+ [Introduction to Open Data]()
++ [Introduction to Open Data](Introduction_Open_Data.md)
 
 For insight into my approach to teaching, see my blogposts:
 
