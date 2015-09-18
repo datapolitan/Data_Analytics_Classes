@@ -3,11 +3,11 @@ This repository contains outlines for [analytics courses](http://www.nyc.gov/htm
 Courses run either all day (7 hours with a 1 hour lunch break) or half day (3 hours). Every class is run with 50 minute blocks of interactive lecture, discussion, and exercises, with a 10 minute break, except the half-day course, which runs in two blocks, with a 10 minute break between. This helps keep the class dynamic and allows the students time to absorb the material. 
 
 The courses are:
++ [Introduction to Open Data](Introduction_Open_Data.md)
 + [Data Analytics for Managers](Data_Analytics_for_Managers.md)
 + [Excel Tools: Summarizing Data](Excel_Tools_Summarizing_Data.md)
 + [Introduction to Statistical Analysis](Introduction_Statistical_Analysis.md)
 + [Introduction to Open-Source Mapping with QGIS](Introduction_Open_Source_Mapping_with_QGIS.md)
-+ [Introduction to Open Data](Introduction_Open_Data.md)
 
 For insight into my approach to teaching, see my blogposts:
 
