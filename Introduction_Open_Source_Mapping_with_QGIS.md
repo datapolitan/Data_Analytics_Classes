@@ -11,7 +11,9 @@
 
 <a id="summary"></a>
 ##Summary
-A one-day course covering the basics of geospatial analysis with open-source tools, including loading, visualizing, and gaining insight from spatial data for operational decision making. The course involves hands-on exercises with open data to answer real-world problems.
+A one-day course covering the basics of geospatial analysis with open-source tools, including loading, visualizing, and gaining insight from spatial data for operational decision making. The course involves hands-on exercises with open data to answer real-world problems. 
+
+[See the course slides from a recent class](20150729_introduction_qgis.pdf).
 
 ######[back to top](#top)
 
@@ -161,7 +163,9 @@ This course introduces participants to the essential elements of the QGIS open s
 ###Exercise 5: Create a heat map of bicyclist injuries on and off bike paths in your assigned borough
 + Task to Participants
 	+ Working on your own or in groups, create for your assigned borough
-		+ A heat map of bicycle injuries occurring on or near bike paths		+ A heat map of bicycle injuries occurring away from bike paths	+ Prepare to present your (rough) spatial analysis to the class
+		+ A heat map of bicycle injuries occurring on or near bike paths
+		+ A heat map of bicycle injuries occurring away from bike paths
+	+ Prepare to present your (rough) spatial analysis to the class
 + Desired outcomes
 	+ Participants practice working with spatial data in QGIS
 	+ Participants practice creating heat maps in QGIS
