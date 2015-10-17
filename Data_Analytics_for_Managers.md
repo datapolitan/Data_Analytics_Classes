@@ -92,22 +92,21 @@ This course introduces participants, especially managers and executives, to the 
 		+ Selecting the appropriate type of chart
 		+ Effective use of color
 + Break (1:55 - 2:00)<a id="ex2"></a>
-+ Practical session in Exploratory Data Analysis (2:00 – 2:50)
++ Introduction to Open Data (2:00 – 2:20)
+    + Group discussion: "What is open data?"
+    + Definition of open data
+    + Benefits of open data
+    + Concerns with open data
++ Open Data Portal Live Demo (2:20 - 2:30)
++ Practical session in Exploratory Data Analysis (2:30 – 2:50)
 	+ Introduction to exploratory data analysis
 	+ [Exercise 2: Exploring 311 Noise Complaints](#exercise2)
 + Break (2:50 - 3:00)
 + Practical session in Question-driven Analysis (3:00 - 3:50)
 	+ Introduction to question-driven analysis<a id="ex3"></a>
 	+ [Exercise 3: Vision 0 (dB)](#exercise3)
-	+ Group presentations
-+ _Break (3:50 - 4:00) (optional)_
-+ Introduction to Open Data (4:00 – 4:20)
-    + Group discussion: "What is open data?"
-    + Definition of open data
-    + Benefits of open data
-    + Concerns with open data
-+ Open Data Portal Live Demo (4:20 - 4:30)
-+ Analytics resources for the busy city manager (4:30 – 4:40)
++ Group presentations (3:50 - 4:20)
++ Analytics resources for the busy city manager (4:20 – 4:40)
 + Wrap-up discussion and course evaluations (4:40 – 5:00)
 + Dismissal (5:00)
 
