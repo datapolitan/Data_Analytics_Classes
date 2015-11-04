@@ -23,7 +23,7 @@ City employees and other key stakeholders who wish to know more about open data,
 
 <a id="course-overview"></a>
 ##Course Overview
-As the primary users of open data, city employees often have questions about the uses and issues around open data. With the growing trend towards making an ever increasing amount of data available to the public, it's important city employees at all levels understand the opportunities and challenges of open data. This course introduces participants to the idea and practice of open data with a discussion of the history of open data, the nature of open data, examples of how open data has been used to help cities be more responsive to their citizens, and examples when open data has been abused. The course offers city employees the opportunity to ask questions about open data, explore open data portals, and get hands-on experience working with open data in a basic exercise.
+As the primary users of open data, city employees often have questions about the uses and issues around open data. With the growing trend towards making an ever-increasing amount of data available to the public, it's important city employees at all levels understand the opportunities and challenges of open data. This course introduces participants to the idea and practice of open data with a discussion of the history of open data, the nature of open data, examples of how open data has been used to help cities be more responsive to their citizens, and examples when open data has been abused. The course offers city employees the opportunity to ask questions about open data, explore open data portals, and get hands-on experience working with open data in a basic exercise.
 
 
 ######[back to top](#top)
