@@ -1,0 +1,309 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body { font-family: 'Droid Serif'; }
+a:visited, a:link, a:active { text-decoration: none; }
+a:hover { text-decoration: underline; }
+p, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+li {
+  font-family: 'Yanone Kaffeesatz';
+  font-size:2em;
+}
+img {
+  width:70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img[alt=img-left-10]{
+  width:10%;
+  float:left;
+}
+img[alt=img-left-15]{
+  width:15%;
+  float:left;
+}
+img[alt=img-left-20]{
+  width:20%;
+  float:left;
+}
+img[alt=img-left-30]{
+  width:30%;
+  float:left;
+}
+img[alt=img-left-35]{
+  width:35%;
+  float:left;
+}
+img[alt=img-left-40]{
+  width:40%;
+  float:left;
+}
+img[alt=img-left-45]{
+  width:45%;
+  float:left;
+}
+img[alt=img-left-48]{
+  width:48%;
+  float:left;
+}
+img[alt=img-left-50]{
+  width:50%;
+  float:left;
+}
+img[alt=img-left-55]{
+  width:55%;
+  float:left;
+}
+img[alt=img-left-60]{
+  width:60%;
+  float:left;
+}
+img[alt=img-left-bottom]{
+  width:45%;
+  float:left;
+  bottom:10px;
+}
+img[alt=img-right-10]{
+  width:10%;
+  float:right;
+}
+img[alt=img-right-20]{
+  width:20%;
+  float:right;
+}
+img[alt=img-right-25]{
+  width:25%;
+  float:right;
+}
+img[alt=img-right-30]{
+  width:30%;
+  float:right;
+}
+img[alt=img-right-30-bottom]{
+  width:30%;
+  float:right;
+  bottom:10px;
+}
+img[alt=img-right-35]{
+  width:35%;
+  float:right;
+}
+img[alt=img-right-40]{
+  width:40%;
+  float:right;
+}
+img[alt=img-right-43]{
+  width:43%;
+  float:right;
+}
+img[alt=img-right-45]{
+  width:45%;
+  float:right;
+}
+img[alt=img-right-48]{
+  width:48%;
+  float:right;
+}
+img[alt=img-right-50]{
+  width:50%;
+  float:right;
+}
+img[alt=img-right-55]{
+  width:55%;
+  float:right;
+}
+img[alt=img-right-60]{
+  width:60%;
+  float:right;
+}
+img[alt=img-right-65]{
+  width:65%;
+  float:right;
+}
+img[alt=img-right-70]{
+  width:70%;
+  float:right;
+}
+img[alt=img-right-bottom]{
+  width:45%;
+  float:right;
+  bottom:10px;
+}
+img[alt=img-top]{
+  width:50%;
+  top:10px;
+}
+img[alt=img-center-10]{
+  width:10%;
+}
+img[alt=img-center-20]{
+  width:20%;
+}
+img[alt=img-center-25]{
+  width:25%;
+}
+img[alt=img-center-30]{
+  width:30%;
+}
+img[alt=img-center-35]{
+  width:35%;
+}
+img[alt=img-center-38]{
+  width:38%;
+}
+img[alt=img-center-40]{
+  width:40%;
+}
+img[alt=img-center-45]{
+  width:45%;
+}
+img[alt=img-center-48]{
+  width:48%;
+}
+img[alt=img-center-50]{
+  width:50%;
+}
+img[alt=img-center-55]{
+  width:55%;
+}
+img[alt=img-center-60]{
+  width:60%;
+}
+img[alt=img-center-65]{
+  width:65%;
+}
+img[alt=img-center-70]{
+  width:70%;
+}
+img[alt=img-center-75]{
+  width:75%;
+}
+img[alt=img-center-80]{
+  width:80%;
+}
+img[alt=img-center-85]{
+  width:85%;
+}
+img[alt=img-center-90]{
+  width:90%;
+}
+img[alt=img-center-100]{
+  width:100%;
+}
+img[alt=Creative-Commons-License]{
+  width:10%;
+  float:right;
+  display: inline;
+}
+
+iframe {
+  display:block;
+  margin: 0 auto;
+  vertical-align: left;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  text-align:justify;
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 6em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+  font-size:3em;
+}
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  font-size: 0.75em;
+/*  white-space: nowrap;*/
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; 
+word-wrap:break-word;
+}
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+p.footer{
+  position:fixed;
+  left:10px;
+  bottom:0px;
+  font-size: 0.4em;
+}
+
+.red {
+  color: red;
+}
+.yellow {
+  color: yellow;
+}
+.orange {
+  color: orange;
+}
+.green {
+  color: green;
+}
+.blue {
+  color: blue;
+}
+.purple {
+  color: #800080;
+}
+.pink {
+  color: pink;
+}
+.brown {
+  color: brown;
+}
+.gray {
+  color: gray;
+}
+
+form{
+  text-align: center;
+
+}
