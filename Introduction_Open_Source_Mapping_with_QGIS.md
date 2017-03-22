@@ -1,5 +1,5 @@
 <a id="top"></a>
-#Introduction to Open-Source Mapping with QGIS
+# Introduction to Open-Source Mapping with QGIS
 
 + [Summary](#summary)
 + [Target Audience](#target-audience)
@@ -10,44 +10,44 @@
 + [Exercise Descriptions](#exercise-descriptions)
 
 <a id="summary"></a>
-##Summary
+## Summary
 A one-day course covering the basics of geospatial analysis with open-source tools, including loading, visualizing, and gaining insight from spatial data for operational decision making. The course involves hands-on exercises with open data to answer real-world problems. 
 
 [See the course slides from a recent class](20150729_introduction_qgis.pdf).
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="target-audience"></a>
-##Target Audience
+## Target Audience
 City employees of all levels with some familiarity with geospatial information systems (GIS) and work with spatial data in either proprietary or open-source platforms.
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="course-overview"></a>
-##Course Overview
+## Course Overview
 This course introduces participants to the essential elements of the QGIS open source geospatial information system (GIS) application. Topics include how to install and configure the application, as well as loading raster and vector data into QGIS and styling the data for analysis and visualization. Additional topics include spatial joins, buffering features, and other spatial analysis operations, including generating heatmaps and other spatial visualizations. This course is designed for participants with a background in GIS who are interested in using the QGIS platform to work with city data.
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="goals"></a>
-##Goals
+## Goals
 + Review the fundamentals of analyzing and visualizing spa.al data
 + Introduce basic spa.al opera.ons in QGIS
 + Provide a real-world scenario for using QGIS
 + Demonstrate how to connect to a spa.al database (PostgreSQL/PostGIS)
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="key-takeaways"></a>
-##Key Takeaways
+## Key Takeaways
 + Participants will understand how to load and visualize data in QGIS
 + Participants will understand how to perform basic spa.al analysis tasks in QGIS
 + Participants will understand how to work with data stored in a PostgreSQL/PostGIS database
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="schedule"></a>
-##Schedule
+## Schedule
 + Introduction (9:00 - 9:15)
 + Overview of GIS (9:15 - 9:25)
 	+ GIS review
@@ -112,18 +112,18 @@ This course introduces participants to the essential elements of the QGIS open s
 + Wrap-up and course evaluations (3:50 - 4:00)
 + Dismissal (4:00)
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="exercise-descriptions"></a>
-##Exercise Descriptions
+## Exercise Descriptions
 <a id="exercise1"></a>
-###Exercise 1: Style the polygons and labels in the NYC boroughs shapefile 
+### Exercise 1: Style the polygons and labels in the NYC boroughs shapefile 
 + Task to Participants
 	+ Style data from the NYC boroughs shapefile, including the polygon colors, label font, and placement
 + Desired outcomes
 	+ Participants practice styling data in QGIS
 
-######[back to schedule](#ex1) | [back to top](#top)
+###### [back to schedule](#ex1) | [back to top](#top)
 
 <a id="exercise2"></a>
 ###	Exercise 2: In your small groups, style the 311 data for your assigned borough
@@ -134,10 +134,10 @@ This course introduces participants to the essential elements of the QGIS open s
 	+ Participants practice styling a point file in QGIS
 	+ Participants become more comfortable with the QGIS user interface
 
-######[back to schedule](#ex2) | [back to top](#top)
+###### [back to schedule](#ex2) | [back to top](#top)
 
 <a id="exercise3"></a>
-###Exercise 3: In your group, create a heat map of 311 Service Requests for your assigned borough
+### Exercise 3: In your group, create a heat map of 311 Service Requests for your assigned borough
 + Task to Participants
 	+ Create a heat map of 311 complaints in your borough
 	+ Where are the complaints concentrated? 
@@ -147,20 +147,20 @@ This course introduces participants to the essential elements of the QGIS open s
 	+ Participants practice creating heat maps in QGIS
 	+ Participants gain experience manipulating settings in the Heatmap plug-in
 
-######[back to schedule](#ex3) | [back to top](#top)
+###### [back to schedule](#ex3) | [back to top](#top)
 
 <a id="exercise4"></a>
-###Exercise 4: Calculate the number of bicycle injuries that occur on or near bike paths in NYC
+### Exercise 4: Calculate the number of bicycle injuries that occur on or near bike paths in NYC
 + Task to Participants
 	+ Calculate the number of bicycle injuries that occur on or near bike paths in NYC using the point shapefile of injury locations and the line shapefile of bike paths in NYC
 + Desired outcomes
 	+ Participants practice creating buffers and using them for spatial analysis
 	+ Participants practice answering an analytical question with spatial data
 
-######[back to schedule](#ex4) | [back to top](#top)
+###### [back to schedule](#ex4) | [back to top](#top)
 
 <a id="exercise5"></a>
-###Exercise 5: Create a heat map of bicyclist injuries on and off bike paths in your assigned borough
+### Exercise 5: Create a heat map of bicyclist injuries on and off bike paths in your assigned borough
 + Task to Participants
 	+ Working on your own or in groups, create for your assigned borough
 		+ A heat map of bicycle injuries occurring on or near bike paths
@@ -171,4 +171,4 @@ This course introduces participants to the essential elements of the QGIS open s
 	+ Participants practice creating heat maps in QGIS
 	+ Participants practice styling heat maps in QGIS
 
-######[back to schedule](#ex5) | [back to top](#top)
+###### [back to schedule](#ex5) | [back to top](#top)

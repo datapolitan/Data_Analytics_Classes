@@ -1,5 +1,5 @@
 <a id="top"></a>
-#Introduction to Statistical Analysis
+# Introduction to Statistical Analysis
 
 + [Summary](#summary)
 + [Target Audience](#target-audience)
@@ -10,43 +10,43 @@
 + [Exercise Descriptions](#exercise-descriptions)
 
 <a id="summary"></a>
-##Summary
+## Summary
 A one-day course covering the basis of descriptive statistics with open data, including basic statistical measures such as mean, median, standard deviation, and variance. The course also covers correlation, linear regression, and introduces decision modeling using open data.
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="target-audience"></a>
 ##Target Audience
 Employees of all levels who perform data analysis and communicate analytical findings in support city operations.
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="course-overview"></a>
-##Course Overview
+## Course Overview
 This course introduces participants to the use of statistics for understanding and communicating city data. Using Excel, participants will learn how to use measures like mean, median, mode, standard deviation, and variance interval to understand the content of city data for making operational decisions. Participants will also learn how to display statistical information in meaningful ways.
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="goals"></a>
-##Goals
+## Goals
 + Learn common statistical measures, including mean, median, mode, standard deviation, and variance
 + Calculate correlation coefficients for bivariate data and apply the technique of simple regression analysis
 + Demonstrate techniques used for forecasting
 + Communicate data meaningfully to a broad audience using charts and graphs in Microsoft Excel
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="key-takeaways"></a>
-##Key Takeaways
+## Key Takeaways
 + Participants will be familiar with common statistical measures
 + Participants will be able to calculate correlation coefficients for bivariate data and perform simple linear regression analysis
 + Participants will be familiar with the basic techniques of forecasting
 + Participants will be better able to communicate analysis using charts and graphs in Microsoft Excel
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="schedule"></a>
-##Schedule
+## Schedule
 + Introduction and Welcome (9:00 - 9:15)
 	+ Data collection exercise with students
 	+ Collected data includes
@@ -107,12 +107,12 @@ This course introduces participants to the use of statistics for understanding a
 + Course Evaluations and Dismissal (5:00)
 
 
-######[back to top](#top)
+###### [back to top](#top)
 
 <a id="exercise-descriptions"></a>
-##Exercise Descriptions 
+## Exercise Descriptions 
 <a id="exercise1"></a>
-###Exercise 1: Calculate simple descriptive statistics (measures of central tendency)
+### Exercise 1: Calculate simple descriptive statistics (measures of central tendency)
 + Task to participants
 	+ In a small group, calculate the mean and median for your group and compare with the class as a whole
 	+ Report your findings to the class
@@ -121,10 +121,10 @@ This course introduces participants to the use of statistics for understanding a
 	+ Participants understand the value of statistics for comparison
 	+ Participants practice communicating statistics
 
-######[back to schedule](#ex1) | [back to top](#top)
+###### [back to schedule](#ex1) | [back to top](#top)
 
 <a id="exercise2"></a>
-###Exercise 2: Calculate measure of variability in small groups and compare to class as a whole
+### Exercise 2: Calculate measure of variability in small groups and compare to class as a whole
 + Task to participants
 	+ In a small group, calculate the measures of variability for your group and compare with the class as a whole
 	+ Report your findings to the class
@@ -133,10 +133,10 @@ This course introduces participants to the use of statistics for understanding a
 	+ Participants understand the value of statistics for comparison
 	+ Participants practice communicating statistics
 
-######[back to schedule](#ex2) | [back to top](#top)
+###### [back to schedule](#ex2) | [back to top](#top)
 
 <a id="exercise3"></a>
-###Exercise 3: How long do noise complaints stay open in New York City?
+### Exercise 3: How long do noise complaints stay open in New York City?
 + Task to participants
 	+ Prepare data in a guided exercise to calculate the time [311 Service Requests](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) related to noise remain open
 + Desired outcomes
@@ -145,10 +145,10 @@ This course introduces participants to the use of statistics for understanding a
 	+ Participants practice calculating statistics on a larger dataset than previous
 	+ Participants communicate findings from statistical analysis
 
-######[back to schedule](#ex3) | [back to top](#top)
+###### [back to schedule](#ex3) | [back to top](#top)
 
 <a id="exercise4"></a>
-###Exercise 4: How long do pothole complaints stay open in New York City?
+### Exercise 4: How long do pothole complaints stay open in New York City?
 + Task to participants
 	+ Prepare the data in another guided exercise to calculate the time 311 Service Requests related to pothole complaints remain open
 	+ Filter and clean the data as necessary to obtain reliable results
@@ -156,10 +156,10 @@ This course introduces participants to the use of statistics for understanding a
 + Desired outcomes
 	+ Participants practice calculating statistics using the [Data Analysis ToolPak](https://support.office.com/en-us/article/Use-the-Analysis-ToolPak-to-perform-complex-data-analysis-f77cbd44-fdce-4c4e-872b-898f4c90c007) in Excel
 
-######[back to schedule](#ex4) | [back to top](#top)
+###### [back to schedule](#ex4) | [back to top](#top)
 
 <a id="exercise5"></a>
-###Exercise 5: Calculate the correlation between median income and recycling rate in New York City
+### Exercise 5: Calculate the correlation between median income and recycling rate in New York City
 + Task to participants
 	+ Calculate the correlation between median income and the recycling rate in [New York City Community Districts](https://en.wikipedia.org/wiki/Community_boards_of_New_York_City)
 	+ Interpret the result based on the calculated coefficient of correlation
@@ -167,14 +167,14 @@ This course introduces participants to the use of statistics for understanding a
 	+ Participants practice calculating the coefficient of correlation on NYC data
 	+ Participants practice communicating statistics
 
-######[back to schedule](#ex5) | [back to top](#top)
+###### [back to schedule](#ex5) | [back to top](#top)
 
 <a id="exercise6"></a>
-###Exercise 6: Build a basic decision model in Excel to maximize parking ticket revenue in NYC 
+### Exercise 6: Build a basic decision model in Excel to maximize parking ticket revenue in NYC 
 + Task to participants
 	+ Follow along in a guided exercise to maximize parking ticket revenue in NYC by varying the assignment of parking ticket officers in the 5 boroughs on New York City using the Excel [Solver add in](http://www.excel-easy.com/data-analysis/solver.html)
 + Desired outcomes
 	+ Participants are familiar with creating decision models in Excel
 	+ Participants are able to communicate the outcome of decision models
 
-######[back to schedule](#ex6) | [back to top](#top)
+###### [back to schedule](#ex6) | [back to top](#top)
