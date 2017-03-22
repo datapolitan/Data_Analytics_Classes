@@ -37,7 +37,7 @@ This course introduces participants, especially managers and executives, to the 
 ######  [back to top](#top)
 
 <a id="key-takeaways"></a>
-##Key Takeaways
+## Key Takeaways
 + Participants will better understand using data in the decision-making process
 + Participants will better understand the analytics process
 + Participants will better understand the value of data, particularly open data
