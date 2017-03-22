@@ -13,6 +13,8 @@
 ## Summary
 A half-day course covering the basics of open data, it’s key features, and how it enables government to better meet the needs of citizens. Includes a hands-on analysis exercise.
 
+Presented as part of the [DCAS Expo 2016](2016 NYC DCAS Expo). [Slides are available here](http://bit.ly/OpenDataExpo). [Code is available here](https://github.com/datapolitan/talks_lectures/tree/gh-pages/20160108_OpenDataExpo).
+
 ###### [back to top](#top)
 
 <a id="target-audience"></a>
