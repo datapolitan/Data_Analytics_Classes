@@ -16,7 +16,7 @@ A one-day course covering the basis of descriptive statistics with open data, in
 ###### [back to top](#top)
 
 <a id="target-audience"></a>
-##Target Audience
+## Target Audience
 Employees of all levels who perform data analysis and communicate analytical findings in support city operations.
 
 ###### [back to top](#top)
