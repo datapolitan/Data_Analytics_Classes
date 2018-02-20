@@ -16,7 +16,7 @@ A one-day course exploring the use of Microsoft Excel to quickly and correctly s
 ###### [back to top](#top)
 
 <a id="target-audience"></a>
-##Target Audience
+## Target Audience
 Managers, supervisors, and team leaders with a need to leverage basic and advanced features of Excel for extracting meaning from data, as well as communicating those findings in a clear and concise way for key decision makers.
 
 ###### [back to top](#top)
